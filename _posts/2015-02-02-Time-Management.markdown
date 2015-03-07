@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Time Management"
+date:   2015-02-02 19:42:11
+categories: coding Rockit bootcamp 
+---
+This week our topic is time management. This is something that I think I struggle with. From the 7 Habits training at CFA-P, I started working on it but I have since gotten “too busy” to keep up with it. I was making a schedule for the week and then trying to stick to that schedule. That kept me from getting too off track. I need to start doing that again. It’ll help ensure that I make time for Justin and Liam. 
+
+Our non-technical session today was an interesting one. It gave me an opportunity to really think about my own time management system. As I said above, I need to get back in the habit of planning my week. I might even start utilizing google calendar more for planning daily events and such. For me time management includes how I’m using my time. Am I making choices to play video games, study or finish a project? For each activity I choose, there’s a cost. I’m giving up something in order to make a choice. It might be seen as a decision of time “lost” now, or even a lost opportunity. 
+
+One of the things that came up today was the idea of predictable and unpredictable variables. When we discussed traffic as a variable of why someone might be late, it could be seen as both predictable and unpredictable. For example, I purposely leave earlier because I am predicting that there will be traffic. The unpredictable component could be a number of accidents on the freeway. Depending on where I’m going, I always leave early because I don’t want to be late. I plan for the worst case scenario. The rare events are the unpredictable factors to my timelines. 
+
+I think about when I did hair, and I realize that I always felt like I was running late. I’ve seen other hairstylists frequently run late with their estimates of how long it will take them to accomplish a task for a client. Someone once said that “a standard hairdresser’s time is always 15 minutes late.” Maybe that just bothered me, but I always felt that if I made an appointment with someone, it was my responsibility to make sure I honored that commitment. If I didn’t, I felt that I was letting them down. Most clients never minded. I think most hairstylists didn’t seem to mind as much either. Several purposely planned their schedule so that they’d seem “busy.” They (and I can admit this too) hated time between clients. Ideally, we’d have a steady flow of clients to keep us busy all day. Slow times were the worst at salons. It always involved lots of inventory taking, cleaning, and laundry. 
+
+As I prepare to work for a career as a software developer, I know that time management is vital. Most likely, I’ll be contributing to projects with several other people. This means that they’ll be depending on me just as much as clients are relying on us to produce an amazing final product. I won’t be able to do that if I can’t manage my time. Getting into a habit of creating a weekly calendar and visual plans of projects will be a great start and a vital habit to my success. 

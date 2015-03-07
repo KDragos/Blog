@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Company Structures and Communication"
+date:   2015-01-19 19:42:11
+categories: coding Rockit bootcamp 
+---
+This week, we had a speaker, Daniel, talk about company structures and the importance of communication. He talked about how many larger companies have more departmentalized positions and organization. The departments may or may not have much interaction with other departments. For example, the development department might have little communication with the business analysts unless they are working in smaller project teams. Smaller companies have less organization and more of a family feel. People may be doing a variety of things as part of their position on the team. One person might be in charge of everything from meeting with clients to testing the final product.
+
+Daniel also stressed the importance of communication in any structure, position or team. We talked a lot about why communication is important and discussed feedback as well. It’s important to remember not to take feedback personally. Our point of view is limited to just that - our own minds. We all need to remember that we don’t know what the other person is thinking or feeling. We can’t make assumptions about what the other person is trying to say. I have a feeling this is going to be hard for me to remember, but I’ve been working on it. I tend to be really hard on myself, so even if others don’t mean to say something a certain way, I might misinterpret the message. I have been working really hard to remember not to take feedback personally. When I ask for feedback, I remember that I want the other person to be honest so that I can learn and grow. If the other person is lying to make me feel better or something, they aren’t doing me any favors. I have to let them have their opinions the same way I’d want them to respect my opinions. 
