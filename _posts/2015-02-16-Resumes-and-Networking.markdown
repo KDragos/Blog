@@ -11,3 +11,4 @@ For example, how could I use my cosmetology experience for web development? I gu
 My teaching experience has been a little easier to translate. I have always tried to incorporate technology into teaching, as the question of “how can technology improve the way we learn?” has been one of my interests for a long time. I can also mention the fact that I’ve had to manage a whole class. (I hope that managing adults is easier than managing 4th and 5th graders.) I also had to assess students’ learning and adjust lessons based on that. 
 
 I am looking forward to working with the recruiter to work on my resume. I’m hoping that he or she will have additional ideas for how I can best present my varied experiences on my resume. I’ve set a goal for myself. I plan on starting to send out my resume about three weeks before the bootcamp is over. I am hoping that this will lead to me having a job lined up when I’m done.
+
