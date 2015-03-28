@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Mock Interviews"
+date:   2015-03-18 19:42:11
+categories: coding Rockit bootcamp 
+---
+
+This week's non-technical training was a Mock Interview. This was a great experience! I got feedback on how to ensure that I'm presenting my skillset and projects in the best possible way. Being completely new to the field, I'm not sure what other people (and those interviewing me) would be interested in hearing about, so this experience was great for that.
+
+One of the questions that I hate, but always seems to be asked, is the "What is your biggest weakness?" question. I realize that I'm not perfect, but I have developed ways to deal with the areas I think I'm weak in. Something like keeping a calendar or a post-it note list of the days priorities keeps me on schedule. 
+
+Another one might be my self-diagnosed, confirmed-by-friends overachieverness. I'm one of those people who go above and beyond what is expected. Take this blog, for example. I know that a jekyll blog was on the syllabus for Rockit. We were supposed to be keeping a weekly blog or reflection about how our week was going and reflecting on the non-technical training we were getting each week. I took that to heart as I realize how important reflection is to the learning process. I kept writing each week. It helped me solidify my experiences each week. (This has been vital as the course is so fast paced that it's sometimes hard to remember what we did each week.) However, due to the pace of the class, we pushed learning Jekyll back a couple of times. Rather than wait until the rest of the class was ready or willing to learn it, I took it upon myself to learn and publish this blog. Some people might argue that this isn't really a weakness. Instead, they argue, it shows my dedication to my work. There's no doubt that I'm dedicated to my work, but I'm also dedicated to my family. My overachieving can sometimes lead into a poor work-life balance. I've been working on that! I know that I can't work 24/7. I need to make time to spend with my son and my husband. I have been trying to save one day a week where I can spend with my family and not do any work. Specifically scheduling time to spend with my family and sticking to that schedule will help me achieve more balance. 
+
+I suppose that my biggest weakness probably is that I always wait before asking for help. I tend to try to figure things out on my own before really asking for help. Sometimes I try to the point where I get frustrated, which isn't a very productive state. I think I might try to set a timer when dealing with an issue. I might give myself and hour, for example, to figure out how to solve a problem. If I can't figure it out by the time the timer goes off, I'll ask someone for help. If in that hour, I'm making measureable progress, then I know that I don't need to ask for help. 
